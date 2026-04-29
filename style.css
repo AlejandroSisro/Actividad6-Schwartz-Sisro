@@ -19,9 +19,7 @@ img
 }
 h1
 {
-    text-align: left;
-    clear: left;
-    font-size:75px;
+    font-size:50px;
     font-weight: bold;
     color:#ffd000;
     text-decoration: underline;
@@ -29,16 +27,14 @@ h1
 }
 h2
 {
-    text-align: left;
-    clear: left;
-    font-size:50px;
+    font-size:35px;
     font-weight: normal;
     color:#ffe46a;
 }
 a
 {
     color:#ffeea3;
-    font-size:30px;
+    font-size:25px;
 }
 section
 {
@@ -46,21 +42,15 @@ section
     padding: 1.5%;
     margin: 1.5%;
     border-radius: 25px;
-    border: 20px solid #ffd000;
+    border: 15px solid #ffd000;
 }
 div
 {
-    background-color: #3b3b3b;
+    background-color: #333333;
     padding: 1.5%;
     margin: 1.5%;
     border-radius: 25px;
-}
-div
-{
-    background-color: #2b2b2b;
-    padding: 1.5%;
-    margin: 1.5%;
-    border-radius: 25px;
+    border: 15px solid #ffe46a;
 }
 section img
 {
@@ -74,7 +64,7 @@ footer img
 }
 .Otoño
 {
-    border: 20px solid #ff6600;
+    border: 15px solid #ff6600;
 }
 .Otoño h2
 {
@@ -87,7 +77,7 @@ width:50%;
 }
 .Capcom
 {
-    border: 20px solid #0d4da3;
+    border: 15px solid #0d4da3;
 }
 .Capcom h2
 {
@@ -101,7 +91,7 @@ width:50%;
 .Bethesda
 {
 
-    border: 20px solid #ffffff;
+    border: 15px solid #ffffff;
 }
 .Bethesda h2
 {
@@ -114,6 +104,7 @@ width:50%;
 }
 h3
 {
+
     color:#fff2b9;
 }
 form
@@ -124,9 +115,9 @@ form
 {
     background-color: #ffdd44;
     border-radius: 5px;
-    font-size: 40px;
-    color: #fffcee;
+    color: #000000;
     padding: 10px;
+
 
 }
 .JuegosCriticados h2
@@ -137,17 +128,18 @@ form
 }
 .JuegosCriticados
 {
-    background-color: #3b3b3b;
-    padding: 1.5%;
-    margin: 1.5%;
+    background-color: #550000;
+    padding: 0.8%;
+    margin: 0.8%;
     border-radius: 25px;
-    border: 20px solid #ff0000;
+    border: 15px solid #ff0000;
+    width:45%;
+    height:auto;
     
 }
 .JuegosCriticados ul li a
 {
     color:#f74444;
-    font-size: 30px;
 }
 .JuegosCriticados img
 {
@@ -162,17 +154,19 @@ form
 }
 .JuegosPrestigiosos
 {
-    background-color: #3b3b3b;
-    padding: 1.5%;
-    margin: 1.5%;
+    background-color: #004e07;
+    padding: 0.8%;
+    margin: 0.8%;
     border-radius: 25px;
-    border: 20px solid #00ff15;
+    border: 15px solid #00ff15;
+    width:45%;
+    height:auto;
+    float:right;
 }
 
 .JuegosPrestigiosos ul li a
 {
     color:#8aff93;
-    font-size: 30px;
 }
 .JuegosPrestigiosos img
 {
