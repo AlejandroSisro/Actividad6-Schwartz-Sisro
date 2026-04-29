@@ -117,7 +117,7 @@ form
     border-radius: 5px;
     color: #000000;
     padding: 10px;
-
+    display:inline-block;
 
 }
 .JuegosCriticados h2
@@ -192,3 +192,4 @@ footer h3
 {
     list-style: none;
 }
+
