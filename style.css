@@ -15,7 +15,7 @@ header nav ul li
 img
 {
     width: 100%;
-    border-radius: 25px;
+    border-radius: 30px;
 }
 h1
 {
@@ -38,7 +38,7 @@ h2
 a
 {
     color:#ffeea3;
-    font-size:25px;
+    font-size:30px;
 }
 section
 {
@@ -46,7 +46,14 @@ section
     padding: 1.5%;
     margin: 1.5%;
     border-radius: 25px;
-    border: 15px solid #ffd000;
+    border: 20px solid #ffd000;
+}
+div
+{
+    background-color: #3b3b3b;
+    padding: 1.5%;
+    margin: 1.5%;
+    border-radius: 25px;
 }
 div
 {
@@ -67,7 +74,7 @@ footer img
 }
 .Otoño
 {
-    border: 15px solid #ff6600;
+    border: 20px solid #ff6600;
 }
 .Otoño h2
 {
@@ -80,7 +87,7 @@ width:50%;
 }
 .Capcom
 {
-    border: 15px solid #0d4da3;
+    border: 20px solid #0d4da3;
 }
 .Capcom h2
 {
@@ -93,7 +100,8 @@ width:50%;
 }
 .Bethesda
 {
-    border: 15px solid #ffffff;
+
+    border: 20px solid #ffffff;
 }
 .Bethesda h2
 {
@@ -139,7 +147,7 @@ form
 .JuegosCriticados ul li a
 {
     color:#f74444;
-    font-size: 20px;
+    font-size: 30px;
 }
 .JuegosCriticados img
 {
@@ -164,7 +172,7 @@ form
 .JuegosPrestigiosos ul li a
 {
     color:#8aff93;
-    font-size: 20px;
+    font-size: 30px;
 }
 .JuegosPrestigiosos img
 {
