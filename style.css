@@ -133,6 +133,8 @@ form
     padding: 1.5%;
     margin: 1.5%;
     border-radius: 25px;
+    border: 15px solid #ff0000;
+    
 }
 .JuegosCriticados ul li a
 {
@@ -156,6 +158,7 @@ form
     padding: 1.5%;
     margin: 1.5%;
     border-radius: 25px;
+    border: 15px solid #00ff15;
 }
 
 .JuegosPrestigiosos ul li a
